@@ -261,6 +261,7 @@ OPENJKDED_OBJS		= $(B)/$(OPENJKDED)/botlib/be_aas_bspq3.o \
 					  $(B)/$(OPENJKDED)/qcommon/huffman.o \
 					  $(B)/$(OPENJKDED)/qcommon/matcomp.o \
 					  $(B)/$(OPENJKDED)/qcommon/md4.o \
+					  $(B)/$(OPENJKDED)/qcommon/md5.o \
 					  $(B)/$(OPENJKDED)/qcommon/msg.o \
 					  $(B)/$(OPENJKDED)/qcommon/net_chan.o \
 					  $(B)/$(OPENJKDED)/qcommon/q_math.o \
